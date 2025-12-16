@@ -17,6 +17,7 @@ fn is_duplicate_char_with_hash(str: &str) -> bool {
     return false;
 }
 
+// answer
 // ascii前提
 // O(n)
 fn is_duplicate_char_with_bool(str: &str) -> bool {
